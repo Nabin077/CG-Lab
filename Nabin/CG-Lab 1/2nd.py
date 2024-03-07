@@ -54,7 +54,7 @@ else:
         i = i + 1
         print(f"{i:<5}\t{xk:<5}\t{yk:<5}\t{pk:<5}\t{xk+1:<7}\t{yk+1:<7}\t")
         plt.scatter(xk, yk)
-        plt.title("Medha Kuinkel")
+        plt.title("Nabin Joshi")
     plt.grid(True)
-    plt.title("Medha Kuinkel")
+    plt.title("Nabin Joshi")
     plt.show()
