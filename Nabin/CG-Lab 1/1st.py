@@ -11,6 +11,6 @@ plt.scatter([x1,x2],[y1,y2])
 plt.xlabel('X-axis')
 plt.ylabel('Y-axis')
 
-plt.title("Medha Kuinkel")
+plt.title("Nabin Joshi")
 plt.grid(True)
 plt.show()
